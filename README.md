@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @mukeshhsutharr
-- 👀 I’m interested in Latest Technologies
-- 🌱 I’m currently learning MERN Stack
-- 📫 For any query: mukesh.suthar4y@abacasys.com
+- 👀 I’m a Full-Stack SDE and am interested in Latest Technologies
+- 🌱 Working on building Backend-centric Applications.
+- 📫 For any query: mukesh.suthar@abacasys.com
 
 <!---
 mukeshhsutharr/mukeshhsutharr is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
